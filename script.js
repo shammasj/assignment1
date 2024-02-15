@@ -1,3 +1,3 @@
 function myFunction() {
-    alert("Press a button!");
+    alert("Reminder,You are beautiful");
 }
